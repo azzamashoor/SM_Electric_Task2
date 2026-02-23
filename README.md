@@ -1,6 +1,7 @@
 # SM_Electric_Task2
 //Servo motor Arduino circuit 
-//Tinkercad link:  https://www.tinkercad.com/things/12fMdEvaiMz
+//Part of the Ads robot project built by Smart Methods corporation
+//The circuit was designed using Tinkercad link:  https://www.tinkercad.com/things/12fMdEvaiMz
 //Arduino code:-
 
 #include <Servo.h>
